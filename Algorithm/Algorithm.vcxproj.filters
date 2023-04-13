@@ -13,19 +13,25 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
+    <Filter Include="소스 파일\23.04">
+      <UniqueIdentifier>{f784708a-8cc0-4fe4-b831-6739ff62df1b}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="BOJ10845_230411.cpp">
-      <Filter>소스 파일</Filter>
+    <ClCompile Include="BOJ1325_230413.cpp">
+      <Filter>소스 파일\23.04</Filter>
     </ClCompile>
     <ClCompile Include="BOJ10828_230412.cpp">
-      <Filter>소스 파일</Filter>
+      <Filter>소스 파일\23.04</Filter>
+    </ClCompile>
+    <ClCompile Include="BOJ10845_230411.cpp">
+      <Filter>소스 파일\23.04</Filter>
     </ClCompile>
     <ClCompile Include="BOJ15828_230412.cpp">
-      <Filter>소스 파일</Filter>
+      <Filter>소스 파일\23.04</Filter>
     </ClCompile>
-    <ClCompile Include="BOJ1325_230413.cpp">
-      <Filter>소스 파일</Filter>
+    <ClCompile Include="BOJ2504_230413.cpp">
+      <Filter>소스 파일\23.04</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
